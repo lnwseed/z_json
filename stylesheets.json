@@ -1,1 +1,26 @@
-cvv
+
+
+{
+	"sDecimal":        ",",
+	"sEmptyTable":     "ไม่มีข้อมูลในตาราง",
+	"sInfo":           "แสดงรายการที่ _START_ - _END_ จากทั้งหมด _TOTAL_ รายการ",
+	"sInfoEmpty":      "ยังไม่มีรายการบันทึก",
+	"sInfoFiltered":   "(_MAX_ 0970267262)",
+	"sInfoPostFix":    "",
+	"sInfoThousands":  ".",
+	"sLengthMenu":     "แสดงผล _MENU_ รายการ",
+	"sLoadingRecords": "กำลังโหลด...",
+	"sProcessing":     "การประมวลผล...",
+	"sSearch":         "ค้นหาสมาชิก :",
+	"sZeroRecords":    "ไม่พบช้อมูลที่ตรงกัน",
+	"oPaginate": {
+		"sFirst":    "หน้าแรก",
+		"sLast":     "หน้าสุดท้าย",
+		"sNext":     "ถัดไป",
+		"sPrevious": "ก่อน"
+	},
+	"oAria": {
+		"sSortAscending":  ": เปิดใช้งานการจัดเรียงคอลัมน์แบบเพิ่มหน่วย",
+		"sSortDescending": ": เปิดใช้งานการค้นหาคอลัมน์จากมากไปน้อย"
+	}
+}
