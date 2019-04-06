@@ -194,7 +194,7 @@ button:focus {
 
 .bg-primary:before,
 .title-bg-dark {
-    background-image: linear-gradient(90deg,#27c24c 0,#3ad760)
+    background-color: #819fff
 }
 
 .bg-secondary:before {
