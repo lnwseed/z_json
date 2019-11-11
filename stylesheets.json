@@ -11,7 +11,7 @@
 	"sLengthMenu":     "แสดงผล _MENU_ รายการ",
 	"sLoadingRecords": "กำลังโหลด...",
 	"sProcessing":     "การประมวลผล...",
-	"sSearch":         "ค้นหา :",
+	"sSearch":         "ค้นหาสมาชิก :",
 	"sZeroRecords":    "ไม่พบช้อมูลที่ตรงกัน",
 	"oPaginate": {
 		"sFirst":    "หน้าแรก",
