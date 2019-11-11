@@ -1,3 +1,5 @@
+
+
 {
 	"sDecimal":        ",",
 	"sEmptyTable":     "ไม่มีข้อมูลในตาราง",
@@ -6,8 +8,10 @@
 	"sInfoFiltered":   "(_MAX_ m.me/ceolnw)",
 	"sInfoPostFix":    "",
 	"sInfoThousands":  ".",
+	"sLengthMenu":     "แสดงผล _MENU_ รายการ",
 	"sLoadingRecords": "กำลังโหลด...",
 	"sProcessing":     "การประมวลผล...",
+	"sSearch":         "ค้นหา :",
 	"sZeroRecords":    "ไม่พบช้อมูลที่ตรงกัน",
 	"oPaginate": {
 		"sFirst":    "หน้าแรก",
